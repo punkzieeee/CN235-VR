@@ -1,0 +1,467 @@
+fileFormatVersion: 2
+guid: 07c17c4519a1b4d438b865cb3cc76daa
+ModelImporter:
+  serializedVersion: 19301
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: AX-230I
+    second: {fileID: 2100000, guid: 9b6001e5fefd1ac4a96d5b4a522fc74e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: AX-230I.001
+    second: {fileID: 2100000, guid: c9294e02323079a4e9d8f60032582764, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CN235
+    second: {fileID: 2100000, guid: d97f263de4982b24f8abb600816abbcf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CN235.001
+    second: {fileID: 2100000, guid: 9247fbe1161f7f64f902589fd1d2e3fe, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_1
+    second: {fileID: 2100000, guid: 9805ab605640d9a46b2ab78b2a7adbd8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: baling_material
+    second: {fileID: 2100000, guid: 947fb4d4ce5f90847800f281c5f85b83, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ban_material
+    second: {fileID: 2100000, guid: f09a9ce0589a4b3488407ec938dbeb8d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: batangstir_material
+    second: {fileID: 2100000, guid: 2cf0e40f667c0364aa32cbb0f3224aa0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: besikabin_material
+    second: {fileID: 2100000, guid: 18382a12154b5d947a3c58a199364b2d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: besikursikabin_material
+    second: {fileID: 2100000, guid: b42eeafa298d7d048b452ba8bd4c5f37, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: besikursikokpit_material
+    second: {fileID: 2100000, guid: 68941b1f52658ee4888cf8b8cb50e329, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: besipantry_material
+    second: {fileID: 2100000, guid: 62bf4673d5b3fb544b600e0657cd3435, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: body_material
+    second: {fileID: 2100000, guid: c6bfdef3c783a544494d0b7f7d2fea14, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: indo passenger fix
+    second: {fileID: 2100000, guid: 5e7b4cb0cc013cd4585ba93006e4847c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: indo passenger fix.001
+    second: {fileID: 2100000, guid: 587a26f1bd3f15b48812554c9f39e812, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: jendela blank.002
+    second: {fileID: 2100000, guid: 23dcb16b6a45ee34e955472842d83ca6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: jendela blank.003
+    second: {fileID: 2100000, guid: 1e007ebb71378e84f94a0347f79b199f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: jendela blank.006
+    second: {fileID: 2100000, guid: 034e5d2e1b171ed4e85c747bacdb7715, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: jendela blank.007
+    second: {fileID: 2100000, guid: 7603cbbe7176a2b49b9a61d86c4ff9e9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: jendela depan pojok.002
+    second: {fileID: 2100000, guid: 276f69ee450250c4587ac7514f2fd272, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: jendela depan pojok.003
+    second: {fileID: 2100000, guid: b88a24fef6f119748b5ed064182c35df, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: jendela samping fix.024
+    second: {fileID: 2100000, guid: 12897d4f4cf719b4884a8fa70d562f8b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: jendela samping fix.025
+    second: {fileID: 2100000, guid: b5a34e15df4ea8845819dfb35a0405ac, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: jendela samping fix.026
+    second: {fileID: 2100000, guid: b938184180cff7848bcee7547c9f218f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: jendela samping fix.027
+    second: {fileID: 2100000, guid: 81af5aa70dd07a24d83b90a8e1d03220, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: jendela samping fix.028
+    second: {fileID: 2100000, guid: 9955fff7f1ff89e408ef854756c2a9c7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: jendela samping fix.029
+    second: {fileID: 2100000, guid: 9e33f5b7837d9a5478a477e07eb9eaf1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: jendela samping fix.030
+    second: {fileID: 2100000, guid: 2024785feac63ba418b0343f040ea689, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: jendela samping fix.031
+    second: {fileID: 2100000, guid: b3fa96b4b81f69b47814e714060bcc29, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: jendela samping fix.032
+    second: {fileID: 2100000, guid: 7fe0f129fc22237439db8698a36e089c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: jendela samping fix.033
+    second: {fileID: 2100000, guid: ba61c420e74ce154ea754946e90c1b1d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: jendela samping fix.034
+    second: {fileID: 2100000, guid: 9275aef4299c7514d98207fd498aefa9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: jendela samping fix.035
+    second: {fileID: 2100000, guid: 5ab2b9fbf3384f94ab4bfade4a597b1c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: jendela samping fix.036
+    second: {fileID: 2100000, guid: 725655b2f32c70f4997386dda5abd608, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: jendela samping fix.037
+    second: {fileID: 2100000, guid: 4a385fb784f0a2e4aa168f410635d35a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: jendela samping fix.038
+    second: {fileID: 2100000, guid: 597de19b2689c8d4ca76b77d3834de5d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: jendela samping fix.039
+    second: {fileID: 2100000, guid: d44dd2a57e1541841afc525c291bdfbd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: jendela samping fix.040
+    second: {fileID: 2100000, guid: b02e25e8a70d0f64a913897298e60d7a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: jendela samping fix.041
+    second: {fileID: 2100000, guid: 6f470b6e2d429ca45a9ac3c3d8c76635, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: jendela samping fix.042
+    second: {fileID: 2100000, guid: 3e238f8a8c2113e458ea2f67f3505209, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: jendela samping fix.043
+    second: {fileID: 2100000, guid: 4746552ee5ad3764794850cfd7dadb29, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: jendela samping fix.044
+    second: {fileID: 2100000, guid: adf8f38804d5c884d9f7a090997be99d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: jendela samping fix.045
+    second: {fileID: 2100000, guid: 49b3ce32fb474fa4fa6b334d760013b1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: jendela samping fix.046
+    second: {fileID: 2100000, guid: c34c3311d74c2a647bb4dabb66a40045, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: jendela samping fix.047
+    second: {fileID: 2100000, guid: b94aa79d87339d644a0469e8b7d76601, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: jendela samping fix.048
+    second: {fileID: 2100000, guid: 56fb8bd578ecd4147b70809bc64523b6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: jokkabin_material
+    second: {fileID: 2100000, guid: dad35e0363b71a44bb38eb1dc011b33a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: jokkokpit_material
+    second: {fileID: 2100000, guid: ecadd42b3602abe4e9f0c04fe6aa867e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: kabin_material
+    second: {fileID: 2100000, guid: bab6ef1bf262ea54aabc3a458c3901ec, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lamp_1_material
+    second: {fileID: 2100000, guid: c9b34a473b345ff429bc918c7cd257ed, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lamp_2_material
+    second: {fileID: 2100000, guid: 7de4b335e67cd4548b6db89e91d836f7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lampuexit_material
+    second: {fileID: 2100000, guid: 31ec20e857d430340bf177bfe6beb9eb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lampukabin_material
+    second: {fileID: 2100000, guid: 6ec079e0a4545c140be494a5b951f88a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: langitkabin_material
+    second: {fileID: 2100000, guid: 3968cfab2b2736344b590b9284123b3d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lantaikabin_material
+    second: {fileID: 2100000, guid: b1d8b96365a45ca46b98cb6a3934dd1e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lantaikargo_material
+    second: {fileID: 2100000, guid: 8e14262a9b5170a4898264d181951f38, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lantaitoilet_material
+    second: {fileID: 2100000, guid: 047d12b956de02b41bc271002dc61b19, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: letterexit_material
+    second: {fileID: 2100000, guid: bf4282455af2799418fbe2c3de74436a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: occupiedbg_material
+    second: {fileID: 2100000, guid: 49850f212d87f564a9344552d4db823d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: panelkabin_material
+    second: {fileID: 2100000, guid: 43b7ad39826cf2e40b8567587bf2b3b1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: panelkokpit_material
+    second: {fileID: 2100000, guid: a2ddbd89cafa9454ea08c52ccd32fcee, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pretelan_material
+    second: {fileID: 2100000, guid: 55c0248d3c140324e98ec0ed22b077e9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rotor_material
+    second: {fileID: 2100000, guid: ba1f71e851375fc458632fee73510764, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: stir_material
+    second: {fileID: 2100000, guid: 22aed1ad16b727243a8f5a20615d29f3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: striplantaikabin_material
+    second: {fileID: 2100000, guid: 6fe20fb3b4867434fa9b330831e36a27, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: subpanelkokpit_material
+    second: {fileID: 2100000, guid: 374fa9ab4582652489fd09786a8bc9e2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: trim_material
+    second: {fileID: 2100000, guid: 9235c50d782742047b1b65d13b931239, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wheel_material
+    second: {fileID: 2100000, guid: 8f4e135657f214d469da28fa366ed086, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: AX-230I
+    second: {fileID: 2800000, guid: 0ef2e6b19519e024688dd51fe51870f4, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: CN235
+    second: {fileID: 2800000, guid: 7edaf38d28a778540a6e7821708688f7, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: indo passenger fix
+    second: {fileID: 2800000, guid: 7009be91061bf2141bd1cfa0234de08a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: jendela blank
+    second: {fileID: 2800000, guid: b5ee5f13be0a24144855ce159784ee1e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: jendela depan pojok
+    second: {fileID: 2800000, guid: 7c04831f805f5334987a8004d507a581, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: jendela samping fix
+    second: {fileID: 2800000, guid: 274b516cef7bb3b4fa65494c29f51a50, type: 3}
+  materials:
+    materialImportMode: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 1
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

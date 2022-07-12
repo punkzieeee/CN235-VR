@@ -1,0 +1,10 @@
+@ + C
+JB 0 -> C
+JB 1 -> A
+JB 2 -> T (trigger)
+JB 3 -> B
+JB 4 -> D
+JB 5 -> T (trigger)
+JB 6 -> T (trigger)
+JB 7 -> T (trigger) & BB (back)
+JB 8-19 -> T (trigger)

@@ -1,0 +1,307 @@
+fileFormatVersion: 2
+guid: 9565cf23eb11a1546b452ba6f67fed06
+ModelImporter:
+  serializedVersion: 19301
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_1
+    second: {fileID: 2100000, guid: 230326341550035429fc16f7a6edf13a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ammo_material
+    second: {fileID: 2100000, guid: c53bb9555e9ce4848a79a1051f90d97f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ataskabin_material
+    second: {fileID: 2100000, guid: 619b9ade3c4d04d458ab291e0cc4811b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ban_material
+    second: {fileID: 2100000, guid: 90c6c717d4ed44e4bbe9eb53314ff6f4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: batangstir_material
+    second: {fileID: 2100000, guid: 9cd45999533de9447a512ef0603b6d37, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: besicontrol_material
+    second: {fileID: 2100000, guid: 1be6a0e1ca249fe46af53f57068d5bbe, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: besikursikookpit_material
+    second: {fileID: 2100000, guid: 8c81f4816391a5b4bb4865e08315dd21, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: body_material
+    second: {fileID: 2100000, guid: 15d2d73942e77b941a21d800e5f29926, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: brep_material
+    second: {fileID: 2100000, guid: df52653d9ae15a5439b35c9407878ff3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dalamkabin_material
+    second: {fileID: 2100000, guid: 86336d3fadb5f7845883779e99721016, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dashatas_material
+    second: {fileID: 2100000, guid: 952ba795c698573408405317a01357a6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dashboard_material
+    second: {fileID: 2100000, guid: 5b8f32e7ae6a4ee4ab8a67859f2d3e99, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: gun_material
+    second: {fileID: 2100000, guid: 6e4c7a8e19f16ee468fc47906201ab77, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: gunatas_material
+    second: {fileID: 2100000, guid: 22fee246d227a204095265c5fe038c2b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: gunbawah_material
+    second: {fileID: 2100000, guid: 760fabe0279e97344816d957bfcb29f2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: guntling_material
+    second: {fileID: 2100000, guid: 6467387f669d85842880e858fb54be65, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: jendela blank.002
+    second: {fileID: 2100000, guid: 9dc1a092b6211ee48a0f444c562fe0b1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: jendela blank.003
+    second: {fileID: 2100000, guid: 547aff1deeea314409b65fe19acb1536, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: jendela blank.006
+    second: {fileID: 2100000, guid: 59257e8366a4c294382e1371f2c6747d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: jendela blank.007
+    second: {fileID: 2100000, guid: 4a6f062b9a13ebb4d89714aa7957968a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: jendela depan pojok.002
+    second: {fileID: 2100000, guid: d421d1c7776d9b04c99344a60594464f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: jendela depan pojok.003
+    second: {fileID: 2100000, guid: 369be78548b7a744b86c89ac114e29b4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: jendela_material
+    second: {fileID: 2100000, guid: 0527a3c641d17694389f3cc02a3cfb52, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: jokcontrol_material
+    second: {fileID: 2100000, guid: 0ea18aec444535a4db2746509e682174, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: kokpit_material
+    second: {fileID: 2100000, guid: 6c06f7ebdeeab8c45857549a1c0fce8c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: konsol_material
+    second: {fileID: 2100000, guid: d4052411691a8e849a38d0de2d912d44, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: kursikokpit_material
+    second: {fileID: 2100000, guid: 0e9b1cce76e6bab47b9c7bd0c0d0147a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lamp_1_material
+    second: {fileID: 2100000, guid: afaf2b02796e9e44994d687db945c6e4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lampuexit_material
+    second: {fileID: 2100000, guid: e819fd319b565e548a96c8db75ad0930, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lampukabin_material
+    second: {fileID: 2100000, guid: e41f092a924af5649876e3af9eaccc81, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lantaicargo_material
+    second: {fileID: 2100000, guid: 0fd5482779fc09c4083112364c8715ab, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: misil_material
+    second: {fileID: 2100000, guid: f4b8adc8d9665414aa5231a527189e0b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pretelan_material
+    second: {fileID: 2100000, guid: 3a46e7ca2291e49469152cd1371bbf50, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: stir_material
+    second: {fileID: 2100000, guid: b5ec40d28f0edfd4590e39277f502509, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: striplantai_material
+    second: {fileID: 2100000, guid: 467a78c819c56734f85647e5d9872874, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: trim_material
+    second: {fileID: 2100000, guid: a039f2e522503804ebcfe7d39b4a9b98, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: tulisanexit_material
+    second: {fileID: 2100000, guid: 754a6298fee5a934aa66fdc9d9dcfa68, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ujungbaling_material
+    second: {fileID: 2100000, guid: 9ccc3e873d090154ba4a0c175ddd514b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wheel_material
+    second: {fileID: 2100000, guid: 6b91a7c3296005a419546aec1effb2bf, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: jendela blank
+    second: {fileID: 2800000, guid: c23a2794a007074408b7664b06cfdf69, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: jendela depan pojok
+    second: {fileID: 2800000, guid: c7cfa7e61622bbb4c84612afce7f639c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: jendela samping fix
+    second: {fileID: 2800000, guid: a3b24adf185876a49a7da657dc3bd731, type: 3}
+  materials:
+    materialImportMode: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 1
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

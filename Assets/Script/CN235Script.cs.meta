@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 4070b1181d5587344bc539032d26d135
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - player: {fileID: 116628, guid: 020f1a656f6748346ac59c45c4b5abf7, type: 3}
+  - teleportToCabin1: {instanceID: 0}
+  - teleportToHangar1: {instanceID: 0}
+  - teleportToCabin2: {instanceID: 0}
+  - teleportToHangar2: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
